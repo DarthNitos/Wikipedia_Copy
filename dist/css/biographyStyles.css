@@ -1,0 +1,268 @@
+.body-bio-dl {
+	margin: 1em 1em 0 1em;
+    padding: 0;
+    font-size: 0.9em;
+    text-align: center;
+}
+
+.body-bio-table {
+	background: #FFFFFF;
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgrey;
+    padding: 0.3em;
+}
+
+.body-table-bio {
+	border: 0.5px solid #aaaaaa;
+	background: white;
+	font-size: 0.9em;
+}
+
+.body-table-bio-h2 {
+	display: block;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+	background: #aaccff;
+	font-size: 1em;
+    font-weight: bold;
+    color: #000000;
+}
+
+.body-table-bio-content {
+	padding: 0.8em 1em 0.8em 1em;
+}
+
+.body-bio-img-right {
+	width: 270px;
+	clear: right;
+    float: right;
+    margin: 0 0 1.3em 1.4em;
+}
+
+.body-bio-thumbinner {
+	border: 1px solid #c8ccd1;
+    padding: 3px;
+    background-color: #f8f9fa;
+    font-size: 0.8em;
+}
+
+.body-bio-thumcaption {
+	border: 0;
+    line-height: 1.4em;
+    padding: 3px;
+}
+
+.body-table-bio-p {
+	margin-bottom: 0.5em !important;
+}
+
+.body-table-bio-a {
+	text-align: right;
+	margin: 0.3em 0.2em 5em 0.3em;
+}
+
+.body-bio-a {
+	text-align: center;
+    margin: 0.25em auto 0.75em;
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
+.body-bio-article {
+	background: #FFFFFF;
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgrey;
+    padding: 0.3em;
+}
+
+.body-article-bio {
+	border: 0.5px solid #aaaaaa;
+	background: white;
+	font-size: 0.9em;
+	margin-top: 0.75em;
+}
+
+.body-bio-article-right {
+	margin-left: 1em;
+}
+
+.body-bio-article-h2 {
+	display: block;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+	background: #aaccff;
+	font-size: 0.9em;
+    font-weight: bold;
+    color: #000000;
+}
+
+.body-bio-article-h2 a {
+	font-size: 0.8em;
+}
+
+.body-bio-article-slider-arrows {
+	text-align: center;
+	margin: 0.5em 0 0 0;
+	opacity: 0.87;
+	font-size: 2em;
+	cursor: pointer;
+}
+
+.nextSlide, .prevSlide {
+	margin: 0 2em;
+	padding: 0.25em 0.5em;
+}
+
+.nextSlide:hover, .prevSlide:hover {
+	background-color: rgba(0,24,73,0.02745098);
+    color: #000;	
+}
+
+.nextSlide {
+	right: 0;
+}
+
+.body-article-thumbinner {
+	width: 230px;
+	float: right;
+	border: 1px solid #c8ccd1;
+    padding: 3px;
+    background-color: #f8f9fa;
+    font-size: 0.8em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+}
+
+.body-articel-bio-p {
+	font-size: 0.85em;
+	display: contents;
+}
+
+.selectedBioSlides {
+	display: none;
+}
+
+.generalImgSlides {
+	display: none;
+}
+
+.body-bio-article-img-center {
+	text-align: center;
+}
+
+.bodi-bio-article-credit {
+	font-size: 0.8em;
+    margin: 0.5em 0 0.5em 0 !important;
+}
+
+.body-bio-article-p {
+	font-size: 1em;
+}
+
+.body-bio-article-ul {
+	margin: 1em 0;
+	list-style-type: none;
+	padding: 0;
+}
+
+.body-bio-article-desriptor-p {
+	display: block;
+	text-align: center;
+	font-size: 0.8em;
+	font-weight: bold;
+	margin: 0.8em 0 0.8em 0 !important;
+}
+
+.body-bio-quote-p {
+	margin: 0.5em 0 0.5em 0 !important;
+	text-align: center;
+}
+
+.body-quote-more {
+	margin: 0.3em 0.2em 0.2em 0.3em;
+    padding: 0.3em 0.2em 0.2em 0.3em;
+    text-align: right;
+}
+
+.body-bio-help-involved-height {
+	height: 300px;
+}
+
+.body-bio-help-p {
+	font-size: 0.9em;
+	margin-bottom: 1em !important;
+}
+
+.body-bio-cat-margin {
+	margin-top: 3.5em;
+	margin-bottom: 0.5em;
+}
+
+.body-bio-recContent-notice {
+	border: 1px solid #a2a9b1;
+	background-color: #f8f9fa;
+	padding: 0.5em;
+	margin-bottom: 1em;
+	font-size: 0.9em;
+}
+
+.body-bio-recContent-img {
+	float: left;
+	margin-right: 1em;
+}
+
+.body-bio-recContent-h3 {
+	font-size: 1em;
+	font-weight: bold;
+	text-align: left;
+	border: none;
+	padding: 0;
+	margin-bottom: 0.5em;
+}
+
+.body-bio-recContent-ul {
+	font-size: 0.9em;
+	padding: 0;
+	margin-left: 2em;
+}
+
+.body-bio-wikimedia-p {
+	font-size: 1em;
+	text-align: center;
+	margin-bottom: 0.5em !important;
+}
+
+.body-bio-wikimedia-sources {
+	display: inline-block;
+	font-size: 0.9em;
+}
+
+.body-wikimedia-sources-margin {
+	margin: 0 0.5em 0.5em 0.5em;
+	text-align: center;
+}
+
+.body-wikimedia-sources-margin p {
+	margin: 0 0 0.5em 0;
+}
+
+.body-wikimedia-sources-img {
+	text-align: center;
+}
+
+.bio-wikimedia-table {
+	clear: both;
+    background: transparent;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 0.9em;
+}
+
+.bio-wikimedia-table td {
+	padding: 0 0.5em;
+}
